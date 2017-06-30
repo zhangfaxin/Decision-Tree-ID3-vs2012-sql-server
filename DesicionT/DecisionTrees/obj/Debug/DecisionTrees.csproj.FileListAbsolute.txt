@@ -1,0 +1,8 @@
+E:\DecisionTrees\DecisionTrees\bin\Debug\DecisionTrees.exe
+E:\DecisionTrees\DecisionTrees\bin\Debug\DecisionTrees.pdb
+E:\DecisionTrees\DecisionTrees\obj\Debug\ResolveAssemblyReference.cache
+E:\DecisionTrees\DecisionTrees\obj\Debug\DecisionTrees.DecisionTreeForm.resources
+E:\DecisionTrees\DecisionTrees\obj\Debug\DecisionTrees.Properties.Resources.resources
+E:\DecisionTrees\DecisionTrees\obj\Debug\DecisionTrees.csproj.GenerateResource.Cache
+E:\DecisionTrees\DecisionTrees\obj\Debug\DecisionTrees.exe
+E:\DecisionTrees\DecisionTrees\obj\Debug\DecisionTrees.pdb

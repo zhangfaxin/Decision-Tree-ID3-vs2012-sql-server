@@ -1,0 +1,95 @@
+E:\DecisionTrees\DecisionTrees\bin\Release\DecisionTrees.exe
+E:\DecisionTrees\DecisionTrees\bin\Release\DecisionTrees.pdb
+E:\DecisionTrees\DecisionTrees\obj\Release\ResolveAssemblyReference.cache
+E:\DecisionTrees\DecisionTrees\obj\Release\DecisionTrees.DecisionTreeForm.resources
+E:\DecisionTrees\DecisionTrees\obj\Release\DecisionTrees.Properties.Resources.resources
+E:\DecisionTrees\DecisionTrees\obj\Release\DecisionTrees.csproj.GenerateResource.Cache
+E:\DecisionTrees\DecisionTrees\obj\Release\DecisionTrees.exe
+E:\DecisionTrees\DecisionTrees\obj\Release\DecisionTrees.pdb
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\DecisionTrees\DecisionTrees\obj\Release\DecisionTrees.exe
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\DecisionTrees\DecisionTrees\obj\Release\DecisionTrees.pdb
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\DecisionTrees\DecisionTrees\bin\Release\DecisionTrees.exe
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\DecisionTrees\DecisionTrees\bin\Release\DecisionTrees.pdb
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\DecisionTrees\DecisionTrees\obj\Release\ResolveAssemblyReference.cache
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\DecisionTrees\DecisionTrees\obj\Release\DecisionTrees.DecisionTreeForm.resources
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\DecisionTrees\DecisionTrees\obj\Release\DecisionTrees.Properties.Resources.resources
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\DecisionTrees\DecisionTrees\obj\Release\DecisionTrees.csproj.GenerateResource.Cache
+E:\courseware\商务智能\Code\DecisionTrees\bin\Release\DecisionTrees.exe
+E:\courseware\商务智能\Code\DecisionTrees\bin\Release\DecisionTrees.pdb
+E:\courseware\商务智能\Code\DecisionTrees\obj\Release\ResolveAssemblyReference.cache
+E:\courseware\商务智能\Code\DecisionTrees\obj\Release\DecisionTrees.DecisionTreeForm.resources
+E:\courseware\商务智能\Code\DecisionTrees\obj\Release\DecisionTrees.Properties.Resources.resources
+E:\courseware\商务智能\Code\DecisionTrees\obj\Release\DecisionTrees.csproj.GenerateResource.Cache
+E:\courseware\商务智能\Code\DecisionTrees\obj\Release\DecisionTrees.exe
+E:\courseware\商务智能\Code\DecisionTrees\obj\Release\DecisionTrees.pdb
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\Code\DecisionTrees\obj\Release\DecisionTrees.exe
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\Code\DecisionTrees\obj\Release\DecisionTrees.pdb
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\Code\DecisionTrees\bin\Release\DecisionTrees.exe
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\Code\DecisionTrees\bin\Release\DecisionTrees.pdb
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\Code\DecisionTrees\obj\Release\ResolveAssemblyReference.cache
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\Code\DecisionTrees\obj\Release\DecisionTrees.DecisionTreeForm.resources
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\Code\DecisionTrees\obj\Release\DecisionTrees.Properties.Resources.resources
+E:\courseware\商务智能\08嵌软_08386141_欧君_实验决策树报告\Code\DecisionTrees\obj\Release\DecisionTrees.csproj.GenerateResource.Cache
+C:\Users\松磊\Desktop\决策树-C#代码\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.exe
+C:\Users\松磊\Desktop\决策树-C#代码\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.pdb
+C:\Users\松磊\Desktop\决策树-C#代码\决策树-C#代码\DecisionTrees\bin\Release\DecisionTrees.exe
+C:\Users\松磊\Desktop\决策树-C#代码\决策树-C#代码\DecisionTrees\bin\Release\DecisionTrees.pdb
+C:\Users\松磊\Desktop\决策树-C#代码\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.csprojResolveAssemblyReference.cache
+C:\Users\松磊\Desktop\决策树-C#代码\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.DecisionTreeForm.resources
+C:\Users\松磊\Desktop\决策树-C#代码\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.Properties.Resources.resources
+C:\Users\松磊\Desktop\决策树-C#代码\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.csproj.GenerateResource.Cache
+D:\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.exe
+D:\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.pdb
+D:\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\bin\Release\DecisionTrees.exe
+D:\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\bin\Release\DecisionTrees.pdb
+D:\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.csprojResolveAssemblyReference.cache
+D:\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.DecisionTreeForm.resources
+D:\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.Properties.Resources.resources
+D:\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.csproj.GenerateResource.Cache
+C:\Users\松磊\Desktop\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.exe
+C:\Users\松磊\Desktop\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.pdb
+C:\Users\松磊\Desktop\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\bin\Release\DecisionTrees.exe
+C:\Users\松磊\Desktop\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\bin\Release\DecisionTrees.pdb
+C:\Users\松磊\Desktop\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.csprojResolveAssemblyReference.cache
+C:\Users\松磊\Desktop\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.DecisionTreeForm.resources
+C:\Users\松磊\Desktop\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.Properties.Resources.resources
+C:\Users\松磊\Desktop\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.csproj.GenerateResource.Cache
+C:\Users\松磊\Desktop\决策树-C#代码没有连接数据库\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.Form1.resources
+C:\Users\松磊\Desktop\决策树-C#代码标准\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.exe
+C:\Users\松磊\Desktop\决策树-C#代码标准\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.pdb
+C:\Users\松磊\Desktop\决策树-C#代码标准\决策树-C#代码\DecisionTrees\bin\Release\DecisionTrees.exe
+C:\Users\松磊\Desktop\决策树-C#代码标准\决策树-C#代码\DecisionTrees\bin\Release\DecisionTrees.pdb
+C:\Users\松磊\Desktop\决策树-C#代码标准\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.csprojResolveAssemblyReference.cache
+C:\Users\松磊\Desktop\决策树-C#代码标准\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.DecisionTreeForm.resources
+C:\Users\松磊\Desktop\决策树-C#代码标准\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.Form1.resources
+C:\Users\松磊\Desktop\决策树-C#代码标准\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.Properties.Resources.resources
+C:\Users\松磊\Desktop\决策树-C#代码标准\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.csproj.GenerateResource.Cache
+C:\Users\松磊\Desktop\决策树-C#最终版\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.exe
+C:\Users\松磊\Desktop\决策树-C#最终版\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.pdb
+C:\Users\松磊\Desktop\决策树-C#最终版\决策树-C#代码\DecisionTrees\bin\Release\DecisionTrees.exe
+C:\Users\松磊\Desktop\决策树-C#最终版\决策树-C#代码\DecisionTrees\bin\Release\DecisionTrees.pdb
+C:\Users\松磊\Desktop\决策树-C#最终版\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.csprojResolveAssemblyReference.cache
+C:\Users\松磊\Desktop\决策树-C#最终版\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.DecisionTreeForm.resources
+C:\Users\松磊\Desktop\决策树-C#最终版\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.Form1.resources
+C:\Users\松磊\Desktop\决策树-C#最终版\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.Properties.Resources.resources
+C:\Users\松磊\Desktop\决策树-C#最终版\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.csproj.GenerateResource.Cache
+F:\Documents\Tencent Files\893587449\FileRecv\决策树-C#最终版\决策树-C#最终版\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.exe
+F:\Documents\Tencent Files\893587449\FileRecv\决策树-C#最终版\决策树-C#最终版\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.pdb
+F:\Documents\Tencent Files\893587449\FileRecv\决策树-C#最终版\决策树-C#最终版\决策树-C#代码\DecisionTrees\bin\Release\DecisionTrees.exe
+F:\Documents\Tencent Files\893587449\FileRecv\决策树-C#最终版\决策树-C#最终版\决策树-C#代码\DecisionTrees\bin\Release\DecisionTrees.pdb
+F:\Documents\Tencent Files\893587449\FileRecv\决策树-C#最终版\决策树-C#最终版\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.csprojResolveAssemblyReference.cache
+F:\Documents\Tencent Files\893587449\FileRecv\决策树-C#最终版\决策树-C#最终版\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.DecisionTreeForm.resources
+F:\Documents\Tencent Files\893587449\FileRecv\决策树-C#最终版\决策树-C#最终版\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.Form1.resources
+F:\Documents\Tencent Files\893587449\FileRecv\决策树-C#最终版\决策树-C#最终版\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.Properties.Resources.resources
+F:\Documents\Tencent Files\893587449\FileRecv\决策树-C#最终版\决策树-C#最终版\决策树-C#代码\DecisionTrees\obj\Release\DecisionTrees.csproj.GenerateResource.Cache
+C:\Users\WangYJ\Desktop\DesicionT\DesicionT\DesicionT\DecisionTrees\obj\Release\DecisionTrees.exe
+C:\Users\WangYJ\Desktop\DesicionT\DesicionT\DesicionT\DecisionTrees\obj\Release\DecisionTrees.pdb
+C:\Users\张法鑫\Desktop\DesicionT\DesicionT\DesicionT\DecisionTrees\obj\Release\DecisionTrees.exe
+C:\Users\张法鑫\Desktop\DesicionT\DesicionT\DesicionT\DecisionTrees\obj\Release\DecisionTrees.pdb
+C:\Users\张法鑫\Desktop\DesicionT\DesicionT\DesicionT\DecisionTrees\bin\Release\DecisionTrees.exe
+C:\Users\张法鑫\Desktop\DesicionT\DesicionT\DesicionT\DecisionTrees\bin\Release\DecisionTrees.pdb
+C:\Users\张法鑫\Desktop\DesicionT\DesicionT\DesicionT\DecisionTrees\obj\Release\DecisionTrees.csprojResolveAssemblyReference.cache
+C:\Users\张法鑫\Desktop\DesicionT\DesicionT\DesicionT\DecisionTrees\obj\Release\DecisionTrees.DecisionTreeForm.resources
+C:\Users\张法鑫\Desktop\DesicionT\DesicionT\DesicionT\DecisionTrees\obj\Release\DecisionTrees.Form1.resources
+C:\Users\张法鑫\Desktop\DesicionT\DesicionT\DesicionT\DecisionTrees\obj\Release\DecisionTrees.Properties.Resources.resources
+C:\Users\张法鑫\Desktop\DesicionT\DesicionT\DesicionT\DecisionTrees\obj\Release\DecisionTrees.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionTrees", "DecisionTrees\DecisionTrees.csproj", "{EA96D5B9-FC1B-41ED-968A-3290B01B0473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA96D5B9-FC1B-41ED-968A-3290B01B0473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA96D5B9-FC1B-41ED-968A-3290B01B0473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA96D5B9-FC1B-41ED-968A-3290B01B0473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA96D5B9-FC1B-41ED-968A-3290B01B0473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
